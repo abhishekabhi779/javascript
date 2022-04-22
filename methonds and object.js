@@ -15,4 +15,4 @@ var user = {
 console.log(user.getCoursecount());
 user.buyCourse("js");
 user.buyCourse("react.js");
-console.log(user.courseList());
+console.log(user.getCoursecount());
